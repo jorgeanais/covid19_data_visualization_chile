@@ -1,5 +1,5 @@
 # Covid19 Chile Data Visualization 
 
-Data visualization of Covid 19 in Chile. A small colab notebook of how plot official data from the Ministerio de Ciencia about Covid 19.
+This is a small collab notebook of how to plot up to date official data from the Ministerio de Ciencia of Chile about Covid 19.
 
-Data is extracted from https://www.minciencia.gob.cl/COVID19
+Data extracted from https://www.minciencia.gob.cl/COVID19
