@@ -1,6 +1,6 @@
 # Covid19 Chile Data Visualization 
 
-This is a small jupyter notebook of how to plot up to date official data from the Ministerio de Ciencia of Chile about Covid 19. This notebook uses Pandas module to read and process the data. 
+This jupyter notebook shows how to plot up to date official data from the Ministerio de Ciencia of Chile about the pandemic's development. This notebook uses the Pandas module to read and process the data. 
 
 ![](covid_evolution_chile_13apr2021.png)
 
