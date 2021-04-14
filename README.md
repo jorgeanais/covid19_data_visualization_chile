@@ -4,4 +4,4 @@ This jupyter notebook shows how to visualize official data from the Ministerio d
 
 ![Image](2021_04_13.png)
 
-Data extracted from https://www.minciencia.gob.cl/COVID19. Notice that data is updated daily.
+Data extracted from https://www.minciencia.gob.cl/COVID19. Notice that this repository is updated daily.
